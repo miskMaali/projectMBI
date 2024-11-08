@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiskMBIProject</string>
+    <string name="enter_height">Enter height</string>
+    <string name="enter_weight">Enter weight</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="bmi_history">BMI History</string>
+    <string name="view_history">View History</string>
+    <string name="back">Back</string>
+</resources>
